@@ -16,7 +16,7 @@ Sou o **Bruno (26)**, desenvolvedor **Front-end em formação** (com pé no **PH
   <a href="https://campinasti.com.br/" target="_blank">
     <img src="https://img.shields.io/badge/Website-111111?style=flat-square&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/bruno_carazatto/" target="_blank">
+  <a href="https://www.instagram.com/brunocarazatto/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
 </p>
