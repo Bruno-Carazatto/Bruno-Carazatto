@@ -89,16 +89,16 @@ Sou o **Bruno (26)**, desenvolvedor **Front-end em formação** (com pé no **PH
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bruno-Carazatto&theme=github_dark"
     alt="GitHub Profile Details"
-    width="320"
+    height="170"
   />
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bruno-Carazatto&theme=github_dark"
     alt="GitHub Stats"
-    width="320"
+    height="170"
   />
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bruno-Carazatto&theme=github_dark"
     alt="Repos per Language"
-    width="320"
+    height="170"
   />
 </p>
