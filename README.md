@@ -1,26 +1,3 @@
-<!-- ====== BANNER (pode trocar por um seu depois) ====== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Bruno%20Carazatto&fontAlign=50&fontAlignY=35&color=gradient" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/bruno-carazatto-37764521a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://campinasti.com.br/">
-    <img src="https://img.shields.io/badge/Website-Visitar-111?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://github.com/Bruno-Carazatto?tab=repositories">
-    <img src="https://img.shields.io/badge/Repos-Ver%20todos-24292e?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=800&lines=Web+Developer+J%C3%BAnior+%7C+Front-end+em+evolu%C3%A7%C3%A3o;HTML%2C+CSS%2C+JavaScript+%2B+PHP%2C+MySQL;Projetos+reais%2C+responsivos+e+com+foco+em+UX;Aberto+a+oportunidades+como+Dev+J%C3%BAnior" />
-</p>
-
----
-
 ## 👋 Sobre mim
 Sou o **Bruno (26)**, desenvolvedor **Front-end em formação** (com pé no **PHP/MySQL**), focado em criar **interfaces modernas**, **responsivas** e com **boa experiência do usuário**.
 
@@ -66,16 +43,23 @@ Sou o **Bruno (26)**, desenvolvedor **Front-end em formação** (com pé no **PH
 ---
 
 ## 🧩 GitHub Stats Card
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bruno-Carazatto&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=transparent" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bruno-Carazatto&theme=github_dark"
+    alt="GitHub Profile Details"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Carazatto&layout=compact&hide_border=true&theme=transparent" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Bruno-Carazatto&hide_border=true&theme=transparent" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bruno-Carazatto&theme=github_dark"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bruno-Carazatto&theme=github_dark"
+    alt="Repos per Language"
+  />
 </p>
 
 ---
@@ -83,5 +67,20 @@ Sou o **Bruno (26)**, desenvolvedor **Front-end em formação** (com pé no **PH
 ## 📬 Contato
 - LinkedIn: https://www.linkedin.com/in/bruno-carazatto-37764521a/
 - Website: https://campinasti.com.br/
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bruno-carazatto-37764521a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Bruno-Carazatto" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-24292E?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://campinasti.com.br/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-111111?style=flat-square&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/bruno_carazatto/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
 ---
