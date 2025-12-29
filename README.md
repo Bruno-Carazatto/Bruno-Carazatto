@@ -1,11 +1,3 @@
-<p align="center">
-  <img
-    src="https://img.freepik.com/vetores-gratis/paisagem-noturna-do-oceano-lua-cheia-e-estrelas-brilham_107791-7397.jpg"
-    width="50%"
-    alt="Paisagem noturna com lua e estrelas"
-  />
-</p>
-
 ## 👋 Sobre mim
 Sou o **Bruno (26)**, desenvolvedor **Front-end em formação** (com pé no **PHP/MySQL**), focado em criar **interfaces modernas**, **responsivas** e com **boa experiência do usuário**.
 
