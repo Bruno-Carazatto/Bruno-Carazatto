@@ -5,6 +5,22 @@ Sou o **Bruno (26)**, desenvolvedor **Front-end em formação** (com pé no **PH
 🎓 FUMEC - CEPROCAMP  
 🧰 Stack atual: **HTML • CSS • JavaScript • PHP • MySQL**  
 
+📬 Contato
+<p align="left">
+  <a href="https://www.linkedin.com/in/bruno-carazatto-37764521a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Bruno-Carazatto" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-24292E?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://campinasti.com.br/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-111111?style=flat-square&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/bruno_carazatto/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 ## 🟢 Status (agora)
@@ -21,24 +37,49 @@ Sou o **Bruno (26)**, desenvolvedor **Front-end em formação** (com pé no **PH
 
 ---
 
-## ⭐ Projetos em destaque (portfolio)
-> Se quiser, eu também posso te ajudar a colocar **demo (GitHub Pages)** em cada projeto front-end.
+## ⭐ Projetos em Destaque
 
-### 🔐 Sistema de Login (Front-end Simulado)
-- Fluxo completo de login + dashboard, tema claro/escuro e `localStorage`.
-- Repo: https://github.com/Bruno-Carazatto/Sistema-de-Login-Front-end-Simulado
+### 🔐 Sistema de Login — Front-end Simulado
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+
+- Autenticação simulada com `localStorage`
+- Dashboard com tema claro/escuro
+- Foco em UX e organização de código
+
+🔗 https://github.com/Bruno-Carazatto/Sistema-de-Login-Front-end-Simulado
+
+---
 
 ### 💰 Personal Finance Dashboard
-- Controle de receitas/despesas, KPIs, filtros, busca, **Chart.js** e exportação CSV.
-- Repo: https://github.com/Bruno-Carazatto/Personal-Finance-Dashboard
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white"/>
 
-### 💈 Sistema de Agendamento para Barbearia (PHP + MySQL)
-- Clientes e administradores, agenda, disponibilidade e cancelamentos.
-- Repo: https://github.com/Bruno-Carazatto/Sistema-de-Agendamento-para-Barbearia
+- Controle de receitas e despesas
+- KPIs, filtros, busca e exportação CSV
+- Dashboard responsivo orientado a dados
 
-### 🌐 Landing Pages / Sites institucionais
-- Oliveira Auto Center • Sorveteria Danju • Eldorado Rodas • etc.
-- Repos: https://github.com/Bruno-Carazatto?tab=repositories
+🔗 https://github.com/Bruno-Carazatto/Personal-Finance-Dashboard
+
+---
+
+### 💈 Sistema de Agendamento para Barbearia
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+
+- Agendamento online de horários
+- Área administrativa e fluxo de clientes
+- Estrutura preparada para back-end real
+
+🔗 https://github.com/Bruno-Carazatto/Sistema-de-Agendamento-para-Barbearia
+
+---
+
+### 🌐 Sites Institucionais / Landing Pages
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+
+- Sites responsivos para pequenos negócios
+- Foco em conversão e apresentação
+- Projetos reais publicados
+
+🔗 https://github.com/Bruno-Carazatto?tab=repositories
 
 ---
 
@@ -48,39 +89,16 @@ Sou o **Bruno (26)**, desenvolvedor **Front-end em formação** (com pé no **PH
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bruno-Carazatto&theme=github_dark"
     alt="GitHub Profile Details"
+    width="320"
   />
-</p>
-
-<p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bruno-Carazatto&theme=github_dark"
     alt="GitHub Stats"
+    width="320"
   />
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bruno-Carazatto&theme=github_dark"
     alt="Repos per Language"
+    width="320"
   />
 </p>
-
----
-
-## 📬 Contato
-- LinkedIn: https://www.linkedin.com/in/bruno-carazatto-37764521a/
-- Website: https://campinasti.com.br/
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/bruno-carazatto-37764521a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Bruno-Carazatto" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-24292E?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  <a href="https://campinasti.com.br/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-111111?style=flat-square&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/bruno_carazatto/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
----
